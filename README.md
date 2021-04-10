@@ -1,6 +1,6 @@
 # FavoriteBook with SwiftUI
 
-## Favorite Book app made with SwiftUI.
+## Favorite Book App made with SwiftUI.
 
 ### Main Screen
 <img width="284" alt="Screen Shot 2021-04-10 at 22 48 12" src="https://user-images.githubusercontent.com/24255354/114283476-a15aa480-9a52-11eb-9047-b671aa999696.png">
