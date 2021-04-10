@@ -11,6 +11,8 @@
 		657632922620EB2D00ADF3C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657632912620EB2D00ADF3C5 /* ContentView.swift */; };
 		657632942620EB2E00ADF3C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657632932620EB2E00ADF3C5 /* Assets.xcassets */; };
 		657632972620EB2E00ADF3C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657632962620EB2E00ADF3C5 /* Preview Assets.xcassets */; };
+		657632A02620EB9B00ADF3C5 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6576329F2620EB9B00ADF3C5 /* FavoriteModel.swift */; };
+		659F4DC7262231DD00E58666 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659F4DC6262231DD00E58666 /* DetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		657632932620EB2E00ADF3C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		657632962620EB2E00ADF3C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		657632982620EB2E00ADF3C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6576329F2620EB9B00ADF3C5 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
+		659F4DC6262231DD00E58666 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				6576328F2620EB2D00ADF3C5 /* FavoriteBookApp.swift */,
 				657632912620EB2D00ADF3C5 /* ContentView.swift */,
+				6576329F2620EB9B00ADF3C5 /* FavoriteModel.swift */,
+				659F4DC6262231DD00E58666 /* DetailsView.swift */,
 				657632932620EB2E00ADF3C5 /* Assets.xcassets */,
 				657632982620EB2E00ADF3C5 /* Info.plist */,
 				657632952620EB2E00ADF3C5 /* Preview Content */,
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				657632A02620EB9B00ADF3C5 /* FavoriteModel.swift in Sources */,
+				659F4DC7262231DD00E58666 /* DetailsView.swift in Sources */,
 				657632922620EB2D00ADF3C5 /* ContentView.swift in Sources */,
 				657632902620EB2D00ADF3C5 /* FavoriteBookApp.swift in Sources */,
 			);
